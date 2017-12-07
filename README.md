@@ -5,7 +5,7 @@
 ## Usage
 
 ```bash
-git clone https://github.com/TylerGarlick/node-es7-boilerplate.git [name-of-project]
+git clone https://github.com/orion-lab/node-es7-boilerplate.git [name-of-project]
 ```
 
 Change the remote origins in git to push your changes to your own repositories.
